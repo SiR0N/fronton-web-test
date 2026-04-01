@@ -1,0 +1,3 @@
+Este proyecto es un ejemplo de página web construida con HTML y CSS básico. La página ofrece una explicación sencilla del deporte del frontón utilizando diferentes niveles de títulos, párrafos y varios tipos de listas, incluidas listas anidadas.
+En el apartado visual se aplican estilos mediante CSS, tanto desde la etiqueta <style> como mediante estilos en línea, modificando colores, fondos y formato de texto.
+El proyecto también incorpora imágenes con sus atributos correspondientes y una estructura clara que facilita la lectura. Su objetivo es practicar la organización del contenido, el uso de elementos semánticos y la aplicación de estilos básicos en una página web.
